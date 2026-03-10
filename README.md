@@ -33,7 +33,7 @@ configure({
 
 ## API
 
-### `configure(config)`
+### `configure(options)`
 
 Configures ShowTime's appearance and behavior. All options are optional.
 
