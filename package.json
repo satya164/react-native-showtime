@@ -1,6 +1,6 @@
 {
   "name": "react-native-showtime",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ShowTime wrapper for React Native - Display taps and gestures on iOS",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
